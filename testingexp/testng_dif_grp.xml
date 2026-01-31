@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+  <groups>
+  <run>
+  <include name="abhi"></include>
+  <exclude name="place"></exclude>
+ <!--  <include name="abhi"></include>-->
+<!--<include name="place"></include>-->
+  </run>
+  </groups>
+    <classes>
+      <class name="attributessample.samplegrp_attr"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
