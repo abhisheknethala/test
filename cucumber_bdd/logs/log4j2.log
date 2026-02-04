@@ -1,0 +1,7 @@
+[INFO ] 2026-01-29 10:00:53.144 [main] log4jdemo - this is information message
+[INFO ] 2026-01-29 10:15:36.401 [main] log4jdemo - this is information message
+[INFO ] 2026-01-29 16:19:32.525 [main] log4jdemo - this is information message
+[INFO ] 2026-01-29 16:19:35.930 [main] log4jdemo - this is information message
+[INFO ] 2026-01-29 16:20:41.047 [main] log4jdemo - this is information message
+[INFO ] 2026-01-30 04:55:03.916 [main] newtest - Browser is open
+[INFO ] 2026-01-30 04:55:03.956 [main] newtest - here is test open
